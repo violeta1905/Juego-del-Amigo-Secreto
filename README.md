@@ -3,7 +3,7 @@
 
 
 Aplicación web sencilla para organizar un sorteo de **amigo secreto** de forma rápida y divertida.  
-Desarrollada con **HTML, CSS y JavaScript puro (Vanilla JS)**.
+Desarrollada con **HTML, CSS y JavaScript **.
 
 ---
 
@@ -19,14 +19,9 @@ Desarrollada con **HTML, CSS y JavaScript puro (Vanilla JS)**.
 
 ## 🛠️ Tecnologías utilizadas
 
-| Tecnología   | Uso en el proyecto |
-|--------------|-------------------|
-| **HTML5**    | Estructura de la aplicación |
-| **CSS3**     | Estilos y diseño responsivo |
-| **JavaScript** | Lógica para agregar nombres, validar y realizar el sorteo |
-| **Google Fonts** | Tipografía personalizada |
+Una aplicación web sencilla para organizar un sorteo de amigo secreto de forma rápida y divertida.
+Proyecto desarrollado con HTML, CSS y JavaScript.
 
----
 
 ## 📂 Estructura del proyecto
 
@@ -39,17 +34,12 @@ Desarrollada con **HTML, CSS y JavaScript puro (Vanilla JS)**.
 │ ├── play_circle_outline.png
 │── README.md
 
-yaml
-Copiar
-Editar
 
 ---
 
 ## ⚙️ Cómo usar la aplicación
 
-1. Clonar o descargar este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+
 Abrir el archivo index.html en tu navegador.
 
 Escribir un nombre en el campo de texto y presionar "Añadir".
@@ -62,6 +52,7 @@ Hacer clic en "Sortear Amigo" para elegir uno al azar.
 (Agrega aquí una captura cuando la tengas)
 Ejemplo:
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c1705c7-a02e-4e71-ba19-38001430b4c2" />
 
 🎮 Ejemplo de uso
 Escribir: Ana → Añadir
@@ -74,7 +65,4 @@ Presionar "Sortear Amigo"
 
 Resultado:
 
-yaml
-Copiar
-Editar
 🎉 El amigo secreto es: Pedro 🎉
