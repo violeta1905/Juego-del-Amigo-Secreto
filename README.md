@@ -53,11 +53,16 @@ Hacer clic en "Sortear Amigo" para elegir uno al azar.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4b20386-d2a8-4e40-8601-6836debf4df4" />
 
 
+
+
+
+
 🎮 Ejemplo de uso  de sistema
 Escribir: Ana → Añadir
 Escribir: Pedro → Añadir
 Escribir: Luis → Añadir
 Presionar "Sortear Amigo"
+
 
 Resultado:
 🎉 El amigo secreto es: Pedro 🎉
