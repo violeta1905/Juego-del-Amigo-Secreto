@@ -34,7 +34,6 @@ Proyecto desarrollado con HTML, CSS y JavaScript.
 │ ├── play_circle_outline.png
 │── README.md
 
-
 ---
 
 ## ⚙️ Cómo usar la aplicación
@@ -49,20 +48,15 @@ Repetir el proceso para agregar más amigos.
 Hacer clic en "Sortear Amigo" para elegir uno al azar.
 
 📸 Vista previa
-(Agrega aquí una captura cuando la tengas)
-Ejemplo:
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c1705c7-a02e-4e71-ba19-38001430b4c2" />
 
-🎮 Ejemplo de uso
+🎮 Ejemplo de uso  de sistema
 Escribir: Ana → Añadir
-
 Escribir: Pedro → Añadir
-
 Escribir: Luis → Añadir
-
 Presionar "Sortear Amigo"
 
 Resultado:
-
 🎉 El amigo secreto es: Pedro 🎉
