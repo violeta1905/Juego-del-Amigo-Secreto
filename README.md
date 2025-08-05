@@ -50,7 +50,8 @@ Hacer clic en "Sortear Amigo" para elegir uno al azar.
 📸 Vista previa
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c1705c7-a02e-4e71-ba19-38001430b4c2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4b20386-d2a8-4e40-8601-6836debf4df4" />
+
 
 🎮 Ejemplo de uso  de sistema
 Escribir: Ana → Añadir
